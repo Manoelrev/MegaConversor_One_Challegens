@@ -24,7 +24,7 @@ public class ScreenTemperatura {
     }
 
     public static boolean telaResultadoFinal(ChallegensConversorTemperatura temperaturaUm, double quantidade, ChallegensConversorTemperatura temperaturaDois) throws Exception{        
-        String titulo = "Conversor de Moedas";
+        String titulo = "Conversor de Temperatura";
         Object message = "  Atualmente " + temperaturaUm.toString().charAt(0) + " \u00B0" + quantidade + " equivale a " + ChallegensConversorTemperatura.converterTemperatura(temperaturaUm, temperaturaDois, (int) quantidade);
         
         JChallegens.baseScreen(titulo,message);
