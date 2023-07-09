@@ -1,18 +1,21 @@
-## Getting Started
+![Logo Mega Conversor - Alura](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/ba4c6a93-7c41-4313-8983-54af323f1156)
+![Badge pausado](https://img.shields.io/badge/Status-Pausado-BrighYellow?style=flat-square&color=EACE09)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O Mega Conversor é uma ferramenta versátil e útil que permite converter valores de uma unidade de medida para outra. Ele oferece a conveniência de obter rapidamente valores convertidos em diferentes escalas de temperatura ou moedas.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+# :hammer: Descrição dos conversores
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- O conversor de temperatura permite converter entre as principais escalas, como Celsius, Fahrenheit e Kelvin. Com essa funcionalidade, é possível inserir um valor em uma escala e obter imediatamente sua conversão nas outras escalas, facilitando a compreensão e comparação de temperaturas em diferentes sistemas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+  
+- Quanto ao conversor de dinheiro, ele possibilita a conversão de valores monetários entre diferentes moedas. Com a crescente globalização e intercâmbio comercial, ter um conversor de moeda é essencial para facilitar transações internacionais e entender o valor relativo de uma moeda em relação a outra. Dessa forma, você pode inserir um valor em uma moeda específica e obter seu equivalente em outra moeda de sua escolha.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# 🖼️ Algumas Imagens do projeto
+- ![image](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/6d4d421a-0fb6-46d0-80d8-f8b4c830398c)
 
-## Dependency Management
+- ![image](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/5a56d05b-c988-48bc-b675-cdbf7d047426)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- ![image](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/656b3070-7bb2-43e6-8478-6e304973d2cd)
+
+- ![image](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/ff951a70-bcec-4ad9-abd9-9e6a5dc33a98)
