@@ -1,6 +1,6 @@
 ![Logo Mega Conversor - Alura](https://github.com/Manoelrev/MegaConversor_One_Challegens/assets/92553052/ba4c6a93-7c41-4313-8983-54af323f1156)<br>
 ![Badge pausado](https://img.shields.io/badge/Status-Pausado-BrighYellow?style=flat-square&color=EACE09)
-![Badget Alura](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211937Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_br&utm_medium=email&utm_source=RD+Station)
+![Badget Alura]([https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211937Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_br&utm_medium=email&utm_source=RD+Station](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211937Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_br&utm_medium=email&utm_source=RD+Station))
 O Mega Conversor é uma ferramenta versátil e útil que permite converter valores de uma unidade de medida para outra. Ele oferece a conveniência de obter rapidamente valores convertidos em diferentes escalas de temperatura ou moedas.
 
 
